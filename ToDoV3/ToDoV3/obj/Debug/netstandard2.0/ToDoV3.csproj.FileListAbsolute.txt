@@ -1,0 +1,12 @@
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\bin\Debug\netstandard2.0\ToDoV3.deps.json
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\bin\Debug\netstandard2.0\ToDoV3.dll
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.csprojResolveAssemblyReference.cache
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.csproj.CoreCompileInputs.cache
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.App.xaml.g.cs
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.MainPage.xaml.g.cs
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.AssemblyInfoInputs.cache
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.AssemblyInfo.cs
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\bin\Debug\netstandard2.0\ToDoV3.pdb
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.AddPage.xaml.g.cs
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.dll
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.pdb

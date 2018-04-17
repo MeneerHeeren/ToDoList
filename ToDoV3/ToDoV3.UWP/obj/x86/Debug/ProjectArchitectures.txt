@@ -1,0 +1,1 @@
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3.UWP\ToDoV3.UWP.csproj;x86
