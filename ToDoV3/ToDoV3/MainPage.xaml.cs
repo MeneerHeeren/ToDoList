@@ -16,7 +16,7 @@ namespace ToDoV3
 
         // button aanmaken
         Button addPageBtn;
-
+        Button listPageBtn;
 
         public MainPage()
         {
@@ -39,11 +39,22 @@ namespace ToDoV3
                 Text = "Click here to add a To Do item."
             };
 
+            // button initialiseren voor ListPage
+            listPageBtn = new Button()
+            {
+                HorizontalOptions = LayoutOptions.Center,
+                WidthRequest = 400,
+                Text = "Click here to see your to do list."
+            };
 
             // button op de stack
             ControlStack.Children.Add(addPageBtn);
+            ControlStack.Children.Add(listPageBtn);
 
             // add page button clickyclicks
+            addPageBtn.Clicked += addPageBtn_Clicked;
+
+            // list page button clickyclicks
             addPageBtn.Clicked += addPageBtn_Clicked;
         }
 
@@ -65,7 +76,10 @@ namespace ToDoV3
             Navigation.PushAsync(new AddPage());
         }
 
-
+        private void listPageBtn_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new ListPage());
+        }
 
 
 

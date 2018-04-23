@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-17T11:56:56.301</Modified>
+      <Modified>2018-04-23T09:24:47.590</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3.UWP\bin\x86\Debug\ToDoV3.UWP.exe">
       <PackagePath>entrypoint\ToDoV3.UWP.exe</PackagePath>
-      <Modified>2018-04-17T11:56:55.398</Modified>
+      <Modified>2018-04-23T09:24:40.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mh62\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.1\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -737,7 +737,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\bin\Debug\netstandard2.0\ToDoV3.dll">
       <PackagePath>ToDoV3.dll</PackagePath>
-      <Modified>2018-04-17T11:56:49.830</Modified>
+      <Modified>2018-04-23T09:24:34.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -908,11 +908,11 @@
     <AppxPackagedFile Include="D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-17T11:56:55.975</Modified>
+      <Modified>2018-04-23T09:24:47.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3.UWP\bin\x86\Debug\Core\ToDoV3.UWP.exe">
       <PackagePath>ToDoV3.UWP.exe</PackagePath>
-      <Modified>2018-04-17T11:56:56.295</Modified>
+      <Modified>2018-04-23T09:24:47.586</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
