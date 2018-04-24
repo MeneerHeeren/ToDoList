@@ -25,7 +25,14 @@ namespace ToDoV3
 
         async void Delete_Clicked(object sender, EventArgs e)
         {
-            //
+            bool accepted = await DisplayAlert("Confirm", "Are you Sure ?", "Yes", "No");
+            if (accepted)
+            {
+                var listItem = (Item)BindingContext;
+                await App.Database.DeleteItemAsync(listItem);
+                await Navigation.PopAsync();
+            }
+            //await Navigation.PushAsync(new ItemPage());
         }
 
 
@@ -33,5 +40,6 @@ namespace ToDoV3
         {
             await Navigation.PopAsync();
         }
+
     }
 }

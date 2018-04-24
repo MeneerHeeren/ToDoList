@@ -42,7 +42,7 @@ namespace ToDoV3
         {
             if (e.SelectedItem != null)
             {
-                await Navigation.PushAsync(new ItemPage() { BindingContext = e.SelectedItem as Item });
+                await Navigation.PushAsync(new DeleteItemPage() { BindingContext = e.SelectedItem as Item });
             }
         }
 	}

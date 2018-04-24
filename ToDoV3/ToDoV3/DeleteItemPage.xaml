@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToDoV3.DeleteItemPage">
+
+    <ContentPage.Content>
+        <StackLayout Padding="10" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Label Text="Title:" Grid.Row="0" Grid.Column="0" HorizontalOptions="Start" VerticalOptions="Center" />
+                <Entry Text="{Binding Title}" Grid.Row="0" Grid.Column="1" />
+
+                <Label Text="Date:" Grid.Row="1" Grid.Column="0" HorizontalOptions="Start" VerticalOptions="Center" />
+                <DatePicker Date="{Binding Date}" Grid.Row="1" Grid.Column="1" />
+
+                <Label Text="Time:" Grid.Row="2" Grid.Column="0" HorizontalOptions="Start" VerticalOptions="Center" />
+                <TimePicker Time="{Binding Time}" Grid.Row="2" Grid.Column="1" />
+
+            </Grid>
+            <Button Text="Save" HorizontalOptions="FillAndExpand" BackgroundColor="Blue" TextColor="White" Clicked="Save_Clicked" />
+            <Button Text="Cancel" HorizontalOptions="FillAndExpand" BackgroundColor="Orange" TextColor="White" Clicked="Cancel_Clicked"/>
+            <Button Text="Delete" HorizontalOptions="FillAndExpand" BackgroundColor="Red" TextColor="White" Clicked="Delete_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

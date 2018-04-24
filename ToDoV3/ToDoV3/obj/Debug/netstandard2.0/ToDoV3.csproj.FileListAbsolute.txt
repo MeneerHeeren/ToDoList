@@ -12,3 +12,4 @@ D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.pdb
 D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.ListPage.xaml.g.cs
 D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.csprojResolveAssemblyReference.cache
 D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.ItemPage.xaml.g.cs
+D:\CSharp\Xamarin\ToDoV3\ToDoV3\ToDoV3\obj\Debug\netstandard2.0\ToDoV3.DeleteItemPage.xaml.g.cs

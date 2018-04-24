@@ -1,0 +1,7 @@
+Git updaten repo
+
+1. ga naar directory
+2. git add * (alle wijzigingen aan volgende commit toevoegen)
+3. git status (alles groen?) (niet nodig, gewoon om te checken)
+4. git commit -m "message"
+5. git push

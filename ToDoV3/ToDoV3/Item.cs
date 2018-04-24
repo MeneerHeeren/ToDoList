@@ -13,9 +13,12 @@ namespace ToDoV3
 
         public string Title { get; set; }
 
-        public string Date { get; set; }
+        public DateTime Date { get; set; }
 
-        public string Time { get; set; }
+        public DateTime DateTest { get; set; } // kan ik hier formatten? Of toch in de XAML? Ik wil dat DateTime alleen date teruggeeft en ook nog die van vandaag pakt.
+
+
+        public DateTime Time { get; set; }
 
         public override string ToString()
         {
